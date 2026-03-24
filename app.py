@@ -1,6 +1,6 @@
 # app.py
 from flask import Flask
-from config import Config  # Importing the configuration class
+from setting import Config  # Importing the configuration class
 from farmer import farmer_bp  # Importing the farmer routes from farmer.py
 from common import home, register, login, profile, logout  # Importing other route functions
 from common import datetimeformat  
