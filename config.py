@@ -11,9 +11,9 @@ class Config:
     DEBUG = True
 
     # ✅ Cashfree Config
-    CASHFREE_CLIENT_ID = "test"
-    CASHFREE_CLIENT_SECRET = "test"
-    CASHFREE_ENVIRONMENT ="test"
+    CASHFREE_CLIENT_ID = "TEST11026123bbeb4915a6dbb64a2f7632162011"
+    CASHFREE_CLIENT_SECRET = "cfsk_ma_test_da5ced1b13eb044f89b024e2df2bf17d_81ac582f"
+    CASHFREE_ENVIRONMENT ="sandbox"
     UPLOAD_FOLDER = "static/uploads"
     ALLOWED_EXTENSIONS = {"png", "jpg", "jpeg", "gif"}
 
